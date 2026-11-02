@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BaiTapQLBaiXe/BaiTapQLBaiXe.vcxproj" Id="a2778dd4-0082-4bca-b7bb-62305abdc4db" />
+</Solution>
